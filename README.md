@@ -1,4 +1,6 @@
-# 732A92-Text-Mining
+Comparative Study of Binary Sentiment Analysis for the Product Review dataset with the Explainable AI framework
+
+## 732A92-Text-Mining
 Academic project at Linköping University
 
 ## Abstract
