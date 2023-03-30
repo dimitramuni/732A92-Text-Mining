@@ -1,7 +1,7 @@
 # Comparative Study of Binary Sentiment Analysis for the Product Review dataset with the Explainable AI framework
 
 ## 732A92-Text-Mining
-Academic project at Linköping University
+Academic project at Linköping University, March 2023
 
 ## Abstract
 This project aimed to analyze binary sentiment for the Amazon Fine Food Reviews [dataset](https://snap.stanford.edu/data/web-FineFoods.html)
